@@ -1,0 +1,149 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/NotoSansThai_Condensed-ExtraLight.ttf",
+      "sha1": "1d6a733bd553ee9b9756f5601905fea24bdbfd47"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_ExtraCondensed-Thin.ttf",
+      "sha1": "fc8cb7dfe5e675bc1bcd6edbd73bcd4126efb423"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_SemiCondensed-Black.ttf",
+      "sha1": "f9a967fee92a9e1ed8ac22ce2d788699cf601ca2"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai-SemiBold.ttf",
+      "sha1": "c5c911744800e0b00a4a779b9dd613f0fdbeb3ad"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_SemiCondensed-Thin.ttf",
+      "sha1": "969b637c659ad36e454787030c02724815a70c91"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_Condensed-Regular.ttf",
+      "sha1": "7b4972fd81e1641da8b7cfe017c19c5fb0a91bb4"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai-Regular.ttf",
+      "sha1": "84e59eed2374001f506738aafd7ca3bcb40198df"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_ExtraCondensed-Black.ttf",
+      "sha1": "05620575f489da6e9f28ab1fa0aa9cf2135e7700"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_SemiCondensed-Bold.ttf",
+      "sha1": "f4780abace7cdb04b59bd7577aeb5859a614ebc7"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai-ExtraLight.ttf",
+      "sha1": "77dc7f462af13e4d376e484ed6e2fb64cd16e583"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_Condensed-SemiBold.ttf",
+      "sha1": "7d43ec0b14c5fdeacfe681e38f15db9961ee4d10"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_ExtraCondensed-Bold.ttf",
+      "sha1": "89202eaf096e6555f77f8616a20ae41d5064cb67"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai-ExtraBold.ttf",
+      "sha1": "ad7da9b2dc5dc4e46f093bb0216fdcb23502a316"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_Condensed-Black.ttf",
+      "sha1": "a43dd278f18fdffb2e5991a0fd89951674f74e02"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai-Medium.ttf",
+      "sha1": "abed187163f3c8acc40ca9be1b3b84113ea57668"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai-Bold.ttf",
+      "sha1": "778d694c4accccec6d54100798459cca7109b696"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai-Light.ttf",
+      "sha1": "05f21626fde10b39d11a9efaa9b5352215c26354"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_ExtraCondensed-ExtraBold.ttf",
+      "sha1": "a71a9dda46cc220a0c8df72ae18830f919641ac6"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_SemiCondensed-SemiBold.ttf",
+      "sha1": "65f540cbd34334161aca3ae857e54c06d95708c4"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_SemiCondensed-ExtraLight.ttf",
+      "sha1": "7bc4c072a9006423040e227aed789959415a4bce"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai-Thin.ttf",
+      "sha1": "bfbf94b980c1504d2bf3621117560dd45994b026"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_SemiCondensed-Regular.ttf",
+      "sha1": "2ac2d69b9151ca707856342884b8507fda800345"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_SemiCondensed-ExtraBold.ttf",
+      "sha1": "a3ceabc51863d1426dd6b769bba17f737c03bcdb"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_ExtraCondensed-Medium.ttf",
+      "sha1": "1fd1a48f748cd59c84c6db8148670c7d77024ae4"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_ExtraCondensed-Regular.ttf",
+      "sha1": "de5657b8d20b20eda244a69bf6768912206761d9"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_Condensed-Medium.ttf",
+      "sha1": "0055220328d0d9ab784ccb4660d0e4305e289bef"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_ExtraCondensed-SemiBold.ttf",
+      "sha1": "87f95ef33d5d9170891303d417d2ace517e15c43"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_Condensed-Light.ttf",
+      "sha1": "1c4b5608a2395ce7e630c91753b6336ea23d2ee9"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai-Black.ttf",
+      "sha1": "08e9693c7a84762cb1d5eb8cb08909b23bb2261e"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_Condensed-Bold.ttf",
+      "sha1": "06a9d31a4ff57ffc989c4a15d774e6df5f66e7e7"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_ExtraCondensed-Light.ttf",
+      "sha1": "a28f581763b3a84fb038a6182f7178b6ed61d443"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_Condensed-ExtraBold.ttf",
+      "sha1": "b6f9f360329ff3d595c291e040b29d4cc15d6ea2"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_SemiCondensed-Light.ttf",
+      "sha1": "7b19cdf607d6bb299ce0e687ba2e0f214c1003d1"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_ExtraCondensed-ExtraLight.ttf",
+      "sha1": "d63704443ca7770bfba9c9378abd88fb381943ac"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_Condensed-Thin.ttf",
+      "sha1": "52145b40fd630a7698d00241442a6c394c709927"
+    },
+    {
+      "path": "src/assets/fonts/NotoSansThai_SemiCondensed-Medium.ttf",
+      "sha1": "2cb864810235f53e0476e5187b563c8b4ce35a38"
+    }
+  ]
+}
