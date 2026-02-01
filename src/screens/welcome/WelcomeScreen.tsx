@@ -1,10 +1,10 @@
-import { StyleSheet, Text, View } from 'react-native';
-import useWelcomeViewModel from './useWelcomeViewModel';
 import { useTranslation } from 'react-i18next';
+import { StyleSheet, Text, View } from 'react-native';
 import PrimaryButton from '../../components/button/PrimaryButton';
-import { spacing, fontSizes } from '../../utils/responsive';
-import { fonts } from '../../utils/fonts';
 import { useTheme } from '../../contexts/ThemeContext';
+import { fonts } from '../../utils/fonts';
+import { fontSizes, spacing } from '../../utils/responsive';
+import useWelcomeViewModel from './useWelcomeViewModel';
 
 function WelcomeScreen() {
   const { onSelectLanguage } = useWelcomeViewModel();

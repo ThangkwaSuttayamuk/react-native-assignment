@@ -1,17 +1,17 @@
+import { useTranslation } from 'react-i18next';
 import {
-  Image,
-  StyleSheet,
-  Text,
-  TouchableOpacity,
-  View,
+    Image,
+    StyleSheet,
+    Text,
+    TouchableOpacity,
+    View,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import BackButton from '../../components/button/BackButton';
-import useViewModel from './useViewModel';
-import { useTranslation } from 'react-i18next';
-import { spacing, fontSizes, borderRadius, wp, hp } from '../../utils/responsive';
-import { fonts } from '../../utils/fonts';
 import { useTheme } from '../../contexts/ThemeContext';
+import { fonts } from '../../utils/fonts';
+import { borderRadius, fontSizes, hp, spacing, wp } from '../../utils/responsive';
+import useViewModel from './useViewModel';
 
 function RequestOtpScreen() {
   const {t} = useTranslation();

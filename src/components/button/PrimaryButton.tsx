@@ -1,7 +1,7 @@
 import { StyleSheet, Text, TextStyle, TouchableOpacity, TouchableOpacityProps, ViewStyle } from 'react-native';
-import { spacing, fontSizes, borderRadius, wp } from '../../utils/responsive';
-import { fonts } from '../../utils/fonts';
 import { useTheme } from '../../contexts/ThemeContext';
+import { fonts } from '../../utils/fonts';
+import { borderRadius, fontSizes, spacing, wp } from '../../utils/responsive';
 
 interface PrimaryButtonProps extends TouchableOpacityProps {
   title: string;

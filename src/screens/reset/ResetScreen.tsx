@@ -1,14 +1,14 @@
 import {
-  StyleSheet,
-  Text,
-  TouchableOpacity,
-  View,
+    StyleSheet,
+    Text,
+    TouchableOpacity,
+    View,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import useResetViewModel from './useResetViewModel';
-import { spacing, fontSizes, borderRadius, wp, hp } from '../../utils/responsive';
-import { fonts } from '../../utils/fonts';
 import { useTheme } from '../../contexts/ThemeContext';
+import { fonts } from '../../utils/fonts';
+import { borderRadius, fontSizes, hp, spacing, wp } from '../../utils/responsive';
+import useResetViewModel from './useResetViewModel';
 
 function ResetScreen() {
   const { onContinue } = useResetViewModel();

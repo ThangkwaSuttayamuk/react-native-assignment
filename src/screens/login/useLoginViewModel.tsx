@@ -5,9 +5,9 @@ import { useTranslation } from 'react-i18next';
 import { Keyboard } from 'react-native';
 import { useNavigate } from '../../hooks/useNavigation';
 import {
-  loginDefaultValues,
-  loginSchema,
-  TLoginSchema,
+    loginDefaultValues,
+    loginSchema,
+    TLoginSchema,
 } from '../../models/schemas/login.schema';
 import { useLoginService } from '../../services/auth/useLoginService';
 import useUserStore from '../../stores/useUserStore';

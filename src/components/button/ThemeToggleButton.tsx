@@ -1,8 +1,7 @@
 import React from 'react';
-import { TouchableOpacity, StyleSheet, View, Text } from 'react-native';
+import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import { useTheme } from '../../contexts/ThemeContext';
-import { wp, hp, fontSizes, spacing } from '../../utils/responsive';
-import { fonts } from '../../utils/fonts';
+import { fontSizes, spacing, wp } from '../../utils/responsive';
 
 interface ThemeToggleButtonProps {
   style?: any;

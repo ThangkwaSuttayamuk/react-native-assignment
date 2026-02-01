@@ -1,15 +1,15 @@
 import {
-  StyleSheet,
-  Text,
-  TextInput,
-  View,
+    StyleSheet,
+    Text,
+    TextInput,
+    View,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import BackButton from '../../components/button/BackButton';
 import PrimaryButton from '../../components/button/PrimaryButton';
 import { useTheme } from '../../contexts/ThemeContext';
 import { fonts } from '../../utils/fonts';
-import { borderRadius, fontSizes, spacing, wp } from '../../utils/responsive';
+import { fontSizes, spacing, wp } from '../../utils/responsive';
 import useForgetPasswordViewModel from './useForgetPasswordViewModel';
 
 function ForgetPasswordScreen() {

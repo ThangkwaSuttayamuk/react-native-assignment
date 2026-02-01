@@ -1,16 +1,16 @@
 import {
-  StyleSheet,
-  Text,
-  TextInput,
-  TouchableOpacity,
-  View,
+    StyleSheet,
+    Text,
+    TextInput,
+    TouchableOpacity,
+    View,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import useOtpViewModel from './useOtpViewModel';
-import { spacing, fontSizes, wp, hp } from '../../utils/responsive';
-import { fonts } from '../../utils/fonts';
 import BackButton from '../../components/button/BackButton';
 import { useTheme } from '../../contexts/ThemeContext';
+import { fonts } from '../../utils/fonts';
+import { fontSizes, hp, spacing, wp } from '../../utils/responsive';
+import useOtpViewModel from './useOtpViewModel';
 
 function OtpScreen() {
   const {

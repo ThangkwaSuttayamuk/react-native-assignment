@@ -9,10 +9,10 @@ import {
 } from 'react-native';
 import PrimaryButton from '../../components/button/PrimaryButton';
 import PlainTextInput from '../../components/input/PlainTextInput';
-import useLoginViewModel from './useLoginViewModel';
-import { spacing, fontSizes, borderRadius, wp, hp } from '../../utils/responsive';
-import { fonts } from '../../utils/fonts';
 import { useTheme } from '../../contexts/ThemeContext';
+import { fonts } from '../../utils/fonts';
+import { borderRadius, fontSizes, hp, spacing, wp } from '../../utils/responsive';
+import useLoginViewModel from './useLoginViewModel';
 
 function LoginScreen() {
   const { t } = useTranslation();

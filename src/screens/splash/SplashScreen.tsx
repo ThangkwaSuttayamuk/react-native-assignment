@@ -1,9 +1,9 @@
 import { useEffect, useRef } from 'react';
 import { Animated, StyleSheet, Text } from "react-native";
+import { useTheme } from '../../contexts/ThemeContext';
 import { useNavigate } from '../../hooks/useNavigation';
 import { fonts } from '../../utils/fonts';
 import { fontSizes } from '../../utils/responsive';
-import { useTheme } from '../../contexts/ThemeContext';
 
 function SplashScreen() {
   const navigate = useNavigate();

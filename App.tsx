@@ -4,15 +4,15 @@
  *
  * @format
  */
-import {
-  initialWindowMetrics,
-  SafeAreaProvider,
-} from 'react-native-safe-area-context';
-import './src/configs/i18n/i18n'; // Initialize i18n
-import RootNavigation from './src/navigations/RootNavigation';
 import React, { useEffect } from 'react';
 import BootSplash from 'react-native-bootsplash';
+import {
+    initialWindowMetrics,
+    SafeAreaProvider,
+} from 'react-native-safe-area-context';
+import './src/configs/i18n/i18n'; // Initialize i18n
 import { ThemeProvider } from './src/contexts/ThemeContext';
+import RootNavigation from './src/navigations/RootNavigation';
 
 const App: React.FC = () => {
   

@@ -7,10 +7,10 @@ import {
     View,
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import useTouchIDViewModel from './useTouchIDViewModel';
-import { spacing, fontSizes, borderRadius, wp, hp } from '../../utils/responsive';
-import { fonts } from '../../utils/fonts';
 import { useTheme } from '../../contexts/ThemeContext';
+import { fonts } from '../../utils/fonts';
+import { borderRadius, fontSizes, hp, spacing, wp } from '../../utils/responsive';
+import useTouchIDViewModel from './useTouchIDViewModel';
 
 function TouchIDScreen() {
   const { isAuthenticating, onSetupBiometric, onSkip } = useTouchIDViewModel();

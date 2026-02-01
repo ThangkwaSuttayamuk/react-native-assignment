@@ -1,5 +1,5 @@
-import { useTheme } from '../contexts/ThemeContext';
 import { useMemo } from 'react';
+import { useTheme } from '../contexts/ThemeContext';
 
 /**
  * Custom hook to get theme-aware colors for any nested color path

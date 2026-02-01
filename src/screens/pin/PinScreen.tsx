@@ -1,9 +1,9 @@
 import { Image, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
-import usePinViewModel from './usePinViewModel';
-import { spacing, fontSizes, wp, hp } from '../../utils/responsive';
-import { fonts } from '../../utils/fonts';
 import { useTheme } from '../../contexts/ThemeContext';
+import { fonts } from '../../utils/fonts';
+import { fontSizes, hp, spacing, wp } from '../../utils/responsive';
+import usePinViewModel from './usePinViewModel';
 
 function PinScreen() {
   const { pin, activeButton, onNumberPress, onBackspace, title, errorMessage, type, handleBiometricAuth } =

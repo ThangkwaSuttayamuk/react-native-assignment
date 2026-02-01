@@ -1,17 +1,17 @@
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import React from 'react';
-import SplashScreen from '../screens/splash/SplashScreen';
-import LoginScreen from '../screens/login';
-import WelcomeScreen from '../screens/welcome';
-import PolicyScreen from '../screens/policy';
+import { PinParams } from '../models/types/screenParams/pinParams';
 import ForgetPasswordScreen from '../screens/forgetPassword';
-import ResetScreen from '../screens/reset';
-import RequestOTPScreen from '../screens/requestOtp';
+import LoginScreen from '../screens/login';
 import OtpScreen from '../screens/otp';
 import PinScreen from '../screens/pin';
-import { PinParams } from '../models/types/screenParams/pinParams';
+import PolicyScreen from '../screens/policy';
+import RequestOTPScreen from '../screens/requestOtp';
+import ResetScreen from '../screens/reset';
+import SplashScreen from '../screens/splash/SplashScreen';
 import TouchIDScreen from '../screens/touchID';
+import WelcomeScreen from '../screens/welcome';
 
 export type RootStackParams = {
   Splash: undefined;
